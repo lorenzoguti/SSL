@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1353751060 source:d:\facultad\sintaxis y semantica de los lenguajes\capitulo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1398051986 source:d:\facultad\sintaxis y semantica de los lenguajes\capitulo 1\holamundo.c
+	<stdio.h>
+	<stdlib.h>
+
+1398051986 source:d:\facultad\sintaxis y semantica de los lenguajes\programas\capitulo 1\holamundo.c
+	<stdio.h>
+	<stdlib.h>
+
+1399917442 source:d:\facultad\sintaxis y semantica de los lenguajes\programas\capitulo 1\tablafahrenheit-celsius.c
+	<stdio.h>
+
